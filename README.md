@@ -57,7 +57,6 @@ Siga os passos abaixo para colocar o BlogApp em funcionamento na sua máquina lo
     git clone [https://github.com/igorferreirasampaio/BlogApp.git](https://github.com/igorferreirasampaio/BlogApp.git)
     cd BlogApp
     ```
-    *(Substitua `igorferreirasampaio/BlogApp.git` pelo caminho real do seu repositório no GitHub)*
 
 2.  **Abra no Visual Studio:**
     * Abra a solução `BlogApp.sln` no Visual Studio 2022.
@@ -77,5 +76,5 @@ Siga os passos abaixo para colocar o BlogApp em funcionamento na sua máquina lo
 
 ## Contato
 
-* **Seu Nome/GitHub:** [SeuPerfilGitHub](https://github.com/igorferreirasampaio)
-* **Email:** [seu.email@example.com](mailto:igorferreirasampao@gmail.com)
+* **Seu Nome/GitHub:** [https://github.com/igorferreirasampaio](https://github.com/igorferreirasampaio)
+* **Email:** [igorferreirasampaio@gmail.com](mailto:igorferreirasampao@gmail.com)
