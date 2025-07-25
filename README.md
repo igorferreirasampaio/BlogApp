@@ -76,5 +76,5 @@ Siga os passos abaixo para colocar o BlogApp em funcionamento na sua máquina lo
 
 ## Contato
 
-* **Seu Nome/GitHub:** [https://github.com/igorferreirasampaio](https://github.com/igorferreirasampaio)
+* **Igor Ferreira Sampaio/GitHub:** [https://github.com/igorferreirasampaio](https://github.com/igorferreirasampaio)
 * **Email:** [igorferreirasampaio@gmail.com](mailto:igorferreirasampao@gmail.com)
